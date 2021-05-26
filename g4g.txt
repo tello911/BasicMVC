@@ -1,0 +1,3 @@
+StudentNo,Name,Sections,Branch,EmailId
+1,Ali,1,Anggerik,Kamil
+2,Ali,1,Anggerik,Kamil
